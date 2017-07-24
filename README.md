@@ -1,2 +1,1 @@
-# Hello-World
-Just starting to create a repository
+hello my name is arun jaiswal and i am new to programming
